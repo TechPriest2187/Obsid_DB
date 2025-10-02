@@ -8,30 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43ccd8ed56211dd2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "50507de81aba6ef9",
+            "id": "eda6dccdd2fc73ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust.md",
+                "file": "Lec1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust"
+              "title": "Lec1"
+            }
+          },
+          {
+            "id": "2fff8032137af21e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practical SQL(POSTGRES).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practical SQL(POSTGRES)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,11 +181,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43ccd8ed56211dd2",
+  "active": "2fff8032137af21e",
   "lastOpenFiles": [
+    "SKJ/The_Link_Layer_and_LANs.md",
+    "SKJ/SKJ.md",
+    "The_Network_Layer_Control_Plane.md",
+    "SKJ/The_Network_Layer_Data_Plane.md",
+    "SKJ/The_Network_Layer_Control_Plane.md",
+    "SKJ/Transport_Layer.md",
+    "Lec1.md",
+    "SKJ/Transport_Layer_images/rdt2.1-sender.png",
+    "SKJ/Transport_Layer_images/rdt2.1-reciever.png",
+    "SKJ/Transport_Layer_images/rdt2.0.png",
+    "SKJ/Transport_Layer_images/rdt1.0.png",
+    "SKJ/Transport_Layer_images",
+    "SKJ/images/rdt2.1-sender.png",
+    "SKJ/images/rdt2.1-reciever.png",
+    "SKJ/images/rdt2.0.png",
+    "SKJ/images/rdt1.0.png",
+    "SKJ/images",
+    "COURSE-MATERIAL-HUB.md",
+    "UTP.md",
+    "Untitled.md",
+    "SBD.md",
+    "SKJ/Application_Layer.md",
+    "UTP-HUB.md",
+    "README.md",
+    "PDFs",
+    "SKJ",
+    "SKJ/Computer_Networks_and_the_Internet.md",
+    "SKJ/computer-networking-a-top-down-approach-8th-edition.pdf",
+    "complete fucking garbage.md",
     "Rust.md",
     "FPV-DRONE-HUB.md",
-    "COURSE-MATERIAL-HUB.md",
     "Flutter-Riverpod.md",
     "Garbage collector.md",
     "Terminology.md",
@@ -188,8 +221,7 @@
     "Practical SQL(POSTGRES).md",
     "Untitled 2.base",
     "Untitled 1.base",
-    "SKJ.md",
-    "Practical_SQL,_2nd_Edition_A_Beginner's_Guide_to_Anthony_DeBarros;.pdf",
+    "PDFs/Practical_SQL,_2nd_Edition_A_Beginner's_Guide_to_Anthony_DeBarros;.pdf",
     "Welcome.md",
     "Flutter.md"
   ]
